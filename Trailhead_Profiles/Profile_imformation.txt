@@ -1,1 +1,29 @@
+STUDENT ID -SBAP0029686
+STUDENT NAME - Pujari Vanaja
+GROUP - B.Com (Computer Application)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/o1t1w6vz92kt55fwl4
 
+PROJECT NAME -field service workorder optimization
+ORG USERNAME - vanajapujari5736@agentforce.com
+PASSWORD - Gayatri@12345
+
+STUDENT ID -SBAP0029591
+STUDENT NAME - Kalyankar Rekha Bai
+GROUP - bsc (Computer science)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/ic9ize8o3cwjy2mqbe
+
+PROJECT NAME - field service workorder optimization
+ORG USERNAME - kr637918515@agentforce.com
+PASSWORD - Gayatri@123
+
+STUDENT ID -SBAP0029537
+STUDENT NAME - Penabadi Harathi
+GROUP - bCA(general)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/o8u07w9nh3r3ygv2et
+
+PROJECT NAME -field service workorder optimization
+ORG USERNAME - pharathi879840@agentforce.com
+PASSWORD - Gayatri@123
